@@ -1,2 +1,3 @@
 # data-processing
-Science Data Processing Code
+SDO-EVE Science Data Processing Code
+Laboratory for Atmospheric and Space Physics
